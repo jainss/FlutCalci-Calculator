@@ -1,4 +1,4 @@
-# flutcalci
+## A simple basic Flutter UI Calculator With simple operation " +, -, *, %, ^, / ".
 
 A new Flutter project.
 
